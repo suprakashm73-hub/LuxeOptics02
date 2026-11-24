@@ -1,0 +1,5 @@
+# Keep customer and store data out of source control and project ZIPs.
+data/store.json
+data/store.json.tmp
+uploads/*
+!uploads/README.txt

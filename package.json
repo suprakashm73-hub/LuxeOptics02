@@ -1,0 +1,8 @@
+{
+  "name": "leux-optics-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Leux Optics storefront with a local Node.js backend",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
