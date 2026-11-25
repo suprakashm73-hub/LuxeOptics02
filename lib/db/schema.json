@@ -1,0 +1,7 @@
+{
+  "Products": ["id", "name", "type", "price", "color", "badge", "desc", "ageGroup", "frameSize", "images", "active", "createdAt"],
+  "Users": ["mobile", "salt", "hash", "createdAt"],
+  "Orders": ["id", "accountMobile", "name", "phone", "pincode", "address", "payment", "paymentStatus", "status", "statusMessage", "items", "total", "createdAt", "serviceType", "serviceMessage", "serviceStatus", "serviceReply"],
+  "Ratings": ["key", "productId", "mobile", "stars", "createdAt"],
+  "Settings": ["key", "value"]
+}

@@ -1,5 +1,14 @@
-# Keep customer and store data out of source control and project ZIPs.
-data/store.json
-data/store.json.tmp
-uploads/*
-!uploads/README.txt
+node_modules
+.next
+out
+.env*
+!.env.example
+.data
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+
+# Google service-account keys must never be committed
+service-account*.json
+*-credentials.json
+*.pem

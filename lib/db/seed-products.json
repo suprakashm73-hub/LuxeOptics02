@@ -1,0 +1,130 @@
+[
+  {
+    "id": "p1",
+    "name": "The Sunday",
+    "type": "Sunglasses",
+    "price": 3490,
+    "color": "Honey tortoise",
+    "badge": "BESTSELLER",
+    "desc": "A timeless soft-square silhouette in warm tortoise acetate. Lightweight, easy, and ready for long sunny afternoons.",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1000&q=82"
+    ],
+    "ageGroup": "Adult",
+    "frameSize": "M (49–52 mm)"
+  },
+  {
+    "id": "p2",
+    "name": "The Ellis",
+    "type": "Optical",
+    "price": 2890,
+    "color": "Olive crystal",
+    "badge": "NEW IN",
+    "desc": "An easy everyday optical frame with a subtle lift and a softly translucent olive finish.",
+    "images": [
+      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1000&q=82"
+    ],
+    "ageGroup": "Adult",
+    "frameSize": "M (49–52 mm)"
+  },
+  {
+    "id": "p3",
+    "name": "The Soleil",
+    "type": "Sunglasses",
+    "price": 3990,
+    "color": "Ink black",
+    "badge": "UV400",
+    "desc": "A confident cat-eye frame with full UV400 protection. Made for bright days and late plans.",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1000&q=82"
+    ],
+    "ageGroup": "Adult",
+    "frameSize": "M (49–52 mm)"
+  },
+  {
+    "id": "p4",
+    "name": "The Rowan",
+    "type": "Optical",
+    "price": 3190,
+    "color": "Clear sand",
+    "badge": "",
+    "desc": "A light, modern round frame that brings a little softness to every look.",
+    "images": [
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1000&q=82"
+    ],
+    "ageGroup": "Adult",
+    "frameSize": "M (49–52 mm)"
+  },
+  {
+    "id": "p5",
+    "name": "The Sunday Mini",
+    "type": "Sunglasses",
+    "price": 3290,
+    "color": "Cherry cola",
+    "badge": "LIMITED",
+    "desc": "Our signature shape, scaled down with a deep cherry tone and protective lenses.",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1000&q=82"
+    ],
+    "ageGroup": "Adult",
+    "frameSize": "M (49–52 mm)"
+  },
+  {
+    "id": "p6",
+    "name": "The Parker",
+    "type": "Optical",
+    "price": 2990,
+    "color": "Tortoise",
+    "badge": "",
+    "desc": "A classic rectangular frame with polished edges and all-day comfort.",
+    "images": [
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1000&q=82"
+    ],
+    "ageGroup": "Adult",
+    "frameSize": "M (49–52 mm)"
+  },
+  {
+    "id": "p7",
+    "name": "The Sol",
+    "type": "Sunglasses",
+    "price": 3790,
+    "color": "Amber fade",
+    "badge": "UV400",
+    "desc": "Sunshine in frame form. A warm gradient lens meets a softly rounded acetate shape.",
+    "images": [
+      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1000&q=82"
+    ],
+    "ageGroup": "Adult",
+    "frameSize": "M (49–52 mm)"
+  },
+  {
+    "id": "p8",
+    "name": "The June",
+    "type": "Optical",
+    "price": 2790,
+    "color": "Moss green",
+    "badge": "",
+    "desc": "A fresh, understated frame with a slim profile and quiet color.",
+    "images": [
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1000&q=82",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1000&q=82"
+    ],
+    "ageGroup": "Adult",
+    "frameSize": "M (49–52 mm)"
+  }
+]

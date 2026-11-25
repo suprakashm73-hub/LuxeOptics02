@@ -1,8 +1,27 @@
 {
-  "name": "leux-optics-store",
+  "name": "luxe-optics",
   "version": "1.0.0",
   "private": true,
-  "description": "Leux Optics storefront with a local Node.js backend",
-  "scripts": {"start": "node server.js"},
-  "engines": {"node": ">=18"}
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "setup:sheet": "node --env-file=.env.local scripts/setup-sheet.mjs"
+  },
+  "dependencies": {
+    "@googleapis/sheets": "^18.1.3",
+    "jose": "^6.2.18",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "server-only": "^0.0.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.9",
+    "@types/react": "^19.3.1",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^5.9.3"
+  }
 }
